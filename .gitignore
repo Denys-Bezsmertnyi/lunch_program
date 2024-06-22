@@ -1,0 +1,28 @@
+# Python
+*.pyc
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Poetry
+poetry.lock
+
+# Django local settings
+local_settings.py
+
+# IDE (example: VSCode)
+.vscode/
+.idea/
+
+# Docker
+docker-compose.override.yml
+
+# Logs
+*.log
+
+# Media files (example: uploaded user files)
+media/
