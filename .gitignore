@@ -26,3 +26,4 @@ docker-compose.override.yml
 
 # Media files (example: uploaded user files)
 media/
+.env
